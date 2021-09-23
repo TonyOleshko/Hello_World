@@ -3,7 +3,7 @@ My name is Tony Oleshko, and I am a Junior at the University of Iowa. I grew up 
 
 1.*PROJECT TITLE*
 
-2. DESCRIPTION
+2.DESCRIPTION
 
 3.***HOW TO RUN PROGRAM***
 
